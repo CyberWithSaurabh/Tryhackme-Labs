@@ -1,3 +1,1 @@
-https://tryhackme.com/room/careersincyber?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=whatsapp&sharerId=67a2b66bd2cee2bcda9a1a71
 
-A career in cyber security labs on TryHackMe helps you build real-world skills by practicing hacking and defense in a safe virtual environment. Through hands-on labs, you learn networking, ethical hacking, penetration testing, and security analysis step by step. Completing these labs improves problem-solving skills and prepares you for roles like SOC analyst, ethical hacker, or security engineer. It’s a beginner-friendly way to gain practical experience and confidence before entering the cybersecurity job market.
